@@ -1,0 +1,9 @@
+variable "environment" {}
+variable "application" {}
+variable "region" {}
+variable "vpc-id" {}
+variable "private-subnet-1-id" {}
+variable "redis_name" {}
+variable "machine_type" {}
+variable "redis_password" {}
+variable "redis_port" {}
